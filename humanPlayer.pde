@@ -18,11 +18,4 @@ class humanPlayer extends player {
         }
       }
   }
-
-  //int assess(float x, float y) {
-  //  //button b1 = new button("2", width/2, height/2);
-  //  //b1.display();
-  //  //b1.click(x, x);
-  //  return 0;
-  //}
 }
